@@ -13,8 +13,6 @@ You can click the Preview link to take a look at your changes.
 <html leng='pt-br'>
   <head>
     <meta charset="utf-8">
-    
-    <script src="https://kit.fontawesome.com/e9588dbc62.js" crossorigin="anonymous"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap" rel="stylesheet">
@@ -57,6 +55,9 @@ You can click the Preview link to take a look at your changes.
           <ul>
             <li><img src='https://cdn-icons-png.flaticon.com/512/174/174854.png' alt='HTML5'></li> 
             <li>Front-end</li>
+            <li>GIT - Github</li>
+            <li>softskills</li>
+            <li>SQL</li>
             <li>Back-end</li>
             <li>Soft skills</li>
             <li>Liderança</li>
@@ -68,7 +69,8 @@ You can click the Preview link to take a look at your changes.
         <h2 id='Videos'> Videos </h2>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/xWDBWcPhtD0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </aside>
-    </main>
+    </main> 
+    <!-- IGNORE THIS IS AREA -->
     <footer>
       <h2 style='color: red;'>Entre em Contato</h2>
       <form>
@@ -80,26 +82,13 @@ You can click the Preview link to take a look at your changes.
        <label for='tel'> Telefone <input type='tel' id='tel' placeholder='xx xxxxxxxx'>
        <label for='url'>Website <input type='url' id='url' placeholder='Seu site'>
          </fieldset>
-         
          <select>
            <option>Item 1</option>
-           <option>Item 1</option>
-           <option>Item 1</option>
-           <option>Item 1</option>
-           <option>Item 1</option>
-           
          </select>
-        
          <textarea placeholder='Escreva aqui alguma coisa :)'>
          </textarea>
          <input type='submit' value='Enviar Mensagem' id='submit'>
       </form>
-      
-      
     </footer>
   </body>
-  
-  
-  
-  
 </html>
