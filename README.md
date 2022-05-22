@@ -33,7 +33,16 @@ You can click the Preview link to take a look at your changes.
         <article>
           <h2 id='Formação'>Formação</h2>
           <p>Formado pelo bootcamp santander, Onebitcode, Estacio de sá e DIO full-stack</p>
-          <li> Fron-End, GIT - Github, Softskills, Back-end, SQL, Javascript, HTML, CSS, react, scrum e Liderança. </li>
+          <li> Fron-End</li>
+          <li>GIT - Github</li>
+          <li>Softskills</li>
+          <li>Back-end</li>
+          <li>SQL</li>
+          <li>Javascript</li>
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>React</li>
+          <li>Scrum e Liderança</li>
         </article>
           <h2 id='Publicacoes' >Publicações</h2>
            <p><strong><h4>Saiba por que todo mundo deveria aprender a programar. E construa ferramentas para solucionar seu dia a dia.</strong></h4>
