@@ -22,9 +22,7 @@ You can click the Preview link to take a look at your changes.
       <nav>
         <ul>
           <li><a href=''>Inicio</a></li>
-          <li><a href='#Videos'>Videos</a></li>
           <li><a href='#Publicacoes'>Publicações</a></li>
-          <li><a href='#Habilidades'>Habilidades</a></li> 
         </ul>
       </nav>
       <h1>Venicios Andrade</h1>
@@ -35,6 +33,7 @@ You can click the Preview link to take a look at your changes.
         <article>
           <h2 id='Formação'>Formação</h2>
           <p>Formado pelo bootcamp santander, Onebitcode, Estacio de sá e DIO full-stack</p>
+          <li> Fron-End, GIT - Github, Softskills, Back-end, SQL, Javascript, HTML, CSS, react, scrum e Liderança. </li>
         </article>
           <h2 id='Publicacoes' >Publicações</h2>
            <p><strong><h4>Saiba por que todo mundo deveria aprender a programar. E construa ferramentas para solucionar seu dia a dia.</strong></h4>
@@ -46,19 +45,6 @@ You can click the Preview link to take a look at your changes.
 <p>Um deles é na mudança mental. Pessoas que aprendem a programar tendem a organizar melhor as ideias, assim como terem mais criatividade para resolver os problemas comuns do dia a dia. Além do mais, praticamente tudo, desde uma geladeira até o mais complexo smartphone, tem na programação um de seus pilares para o bom funcionamento.</p>
 
 <p>Especialistas como Mitchl Resnick, pesquisador do laboratório de mídia do MIT, vai além. Ele acredita que programar é tão importante quanto ler e escrever, necessidades básicas de qualquer humano. Outro aspecto importante é a fluência. Assim como o aprendizado de qualquer idioma, como o inglês ou francês, por exemplo, ter capacidade de interpretar e se ‘comunicar’ é essencial.</p>
-          
-        </article>
-          <h2 id='Habilidades'>Habilidades</h2> 
-          <ul>
-            <li><img src='https://cdn-icons-png.flaticon.com/512/174/174854.png' alt='HTML5'></li> 
-            <li>Front-end</li>
-            <li>GIT - Github</li>
-            <li>softskills</li>
-            <li>SQL</li>
-            <li>Back-end</li>
-            <li>Soft skills</li>
-            <li>Liderança</li>
-            <li>JavaScript, Html, CSS, React</li>
-           </ul>
+        
   </body>
 </html>
