@@ -23,6 +23,7 @@ You can click the Preview link to take a look at your changes.
         <ul>
           <li><a href=''>Inicio</a></li>
           <li><a href='#Publicacoes'>Publicações</a></li>
+          <li><a href='#Formacao'>Formação</a></li>
         </ul>
       </nav>
       <h1>Venicios Andrade</h1>
@@ -31,7 +32,7 @@ You can click the Preview link to take a look at your changes.
     <main>
       <section class='sec'>
         <article>
-          <h2 id='Formação'>Formação</h2>
+          <h2 id='Formacao'>Formação</h2>
           <p>Formado pelo bootcamp santander, Onebitcode, Estacio de sá e DIO full-stack</p>
           <li> Fron-End</li>
           <li>GIT - Github</li>
