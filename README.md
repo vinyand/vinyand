@@ -48,7 +48,6 @@ You can click the Preview link to take a look at your changes.
 <p>Especialistas como Mitchl Resnick, pesquisador do laboratório de mídia do MIT, vai além. Ele acredita que programar é tão importante quanto ler e escrever, necessidades básicas de qualquer humano. Outro aspecto importante é a fluência. Assim como o aprendizado de qualquer idioma, como o inglês ou francês, por exemplo, ter capacidade de interpretar e se ‘comunicar’ é essencial.</p>
           
         </article>
-         <article>
           <h2 id='Habilidades'>Habilidades</h2> 
           <ul>
             <li><img src='https://cdn-icons-png.flaticon.com/512/174/174854.png' alt='HTML5'></li> 
@@ -61,32 +60,5 @@ You can click the Preview link to take a look at your changes.
             <li>Liderança</li>
             <li>JavaScript, Html, CSS, React</li>
            </ul>
-        </article>
-      </section>
-      <aside>
-        <h2 id='Videos'> Videos </h2>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/xWDBWcPhtD0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </aside>
-    </main> 
-    <!-- IGNORE THIS IS AREA -->
-    <footer>
-      <h2 style='color: red;'>Entre em Contato</h2>
-      <form>
-        <fieldset><legend>Dados Pessoais</legend>
-        <label for='nome'> Nome <input type='text' id='nome' name='nome' placeholder='Digite Seu nome' required='true'></label> 
-         <label for='email'>  E-mail <input type='email' id='email' placeholder='Seu E-mail' required='true'>
-         </fieldset>
-          <fieldset><legend> Dados Comerciais</legend>
-       <label for='tel'> Telefone <input type='tel' id='tel' placeholder='xx xxxxxxxx'>
-       <label for='url'>Website <input type='url' id='url' placeholder='Seu site'>
-         </fieldset>
-         <select>
-           <option>Item 1</option>
-         </select>
-         <textarea placeholder='Escreva aqui alguma coisa :)'>
-         </textarea>
-         <input type='submit' value='Enviar Mensagem' id='submit'>
-      </form>
-    </footer>
   </body>
 </html>
