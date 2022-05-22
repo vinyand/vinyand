@@ -12,7 +12,6 @@ You can click the Preview link to take a look at your changes.
 <!DOCTYPE html>
 <html leng='pt-br'>
   <head>
-    <title>Viny :)</title>
     <meta charset="utf-8">
     
     <script src="https://kit.fontawesome.com/e9588dbc62.js" crossorigin="anonymous"></script>
