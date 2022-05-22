@@ -34,10 +34,8 @@ You can click the Preview link to take a look at your changes.
       <section class='sec'>
         <article>
           <h2 id='Formação'>Formação</h2>
-          <p>Formado pelo bootcamp santander, staart e DigitalHouse full-stack</p>
-          
+          <p>Formado pelo bootcamp santander, Onebitcode, Estacio de sá e DIO full-stack</p>
         </article>
-         <article class='sec'>
           <h2 id='Publicacoes' >Publicações</h2>
            <p><strong><h4>Saiba por que todo mundo deveria aprender a programar. E construa ferramentas para solucionar seu dia a dia.</strong></h4>
              
