@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
     <header>
       <nav>
         <ul>
-          <li><a href=''>Inicio</a></li>
+          <li><a href='https://github.com/vinyand'>Inicio</a></li>
           <li><a href='#Publicacoes'>Publicações</a></li>
           <li><a href='#Formacao'>Formação</a></li>
         </ul>
