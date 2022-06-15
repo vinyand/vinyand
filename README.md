@@ -24,10 +24,10 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://www.facebook.com/photo/?fbid=214929207219381&set=a.100274808684822">
 </div>
     
-    ##
+<hr>
  
       <img src="https://www.facebook.com/photo/?fbid=214929207219381&set=a.100274808684822" alt='viny'>
     <main>
