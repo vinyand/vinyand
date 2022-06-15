@@ -28,35 +28,24 @@ You can click the Preview link to take a look at your changes.
 </div>
     
 <hr>
+ <div> 
+  <a href="https://instagram.com/vinyand" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:vinyand@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/venicios-andrade" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-      <img src="https://www.facebook.com/photo/?fbid=214929207219381&set=a.100274808684822" alt='viny'>
-    <main>
-      <section class='sec'>
-        <article>
-          <h2 id='Formacao'>Formação</h2>
-          <p>Formado pelo bootcamp santander, Onebitcode, UNIP (Cursando) & Dio full stack</p>
-          <li> Fron-End </li>
-          <li>Back-end</li>
-          <li>SQL</li>
-          <li>Javascript</li>
-          <li>HTML</li>
-          <li>CSS</li>
-          <li>React</li>
-          <li>Scrum e Liderança</li>
-          <li>Softskills</li>
-          <li>HardSkills</li>
-          <li>GIT - Github</li>
-        </article>
-          <h2 id='Publicacoes' >Publicações</h2>
-           <p><strong><h4>Saiba por que todo mundo deveria aprender a programar. E construa ferramentas para solucionar seu dia a dia.</strong></h4>
-             
-<p>Em um futuro muito próximo cada indivíduo do planeta saberá, pelo menos, o básico de programação. Não, essa afirmação não é muito pretensiosa. Entre os educadores há um consenso sobre os benefícios que aprender a programar trazem para o cérebro. Essa revolução silenciosa já está engatinhando e os primeiros a serem impactados serão os nossos filhos.</p>
-
-<p>Não será muito estranho se daqui a algum tempo os livros de códigos estiverem junto com os de geografia ou história dentro das mochilas das crianças. Aprender algoritmos e linguagens de programação pode ser decisivo na vida profissional, já que o mercado de trabalho cada vez mais necessita de gente que entenda o assunto, mas é em outros aspectos os melhores benefícios.</p>
-
-<p>Um deles é na mudança mental. Pessoas que aprendem a programar tendem a organizar melhor as ideias, assim como terem mais criatividade para resolver os problemas comuns do dia a dia. Além do mais, praticamente tudo, desde uma geladeira até o mais complexo smartphone, tem na programação um de seus pilares para o bom funcionamento.</p>
-
-<p>Especialistas como Mitchl Resnick, pesquisador do laboratório de mídia do MIT, vai além. Ele acredita que programar é tão importante quanto ler e escrever, necessidades básicas de qualquer humano. Outro aspecto importante é a fluência. Assim como o aprendizado de qualquer idioma, como o inglês ou francês, por exemplo, ter capacidade de interpretar e se ‘comunicar’ é essencial.</p>
-        
-  </body>
-</html>
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+<div>
+ <li> Fron-End </li>
+ <li>Back-end</li>
+ <li>SQL</li>
+ <li>Javascript</li>
+ <li>HTML</li>
+ <li>CSS</li>
+ <li>React</li>
+ <li>Scrum e Liderança</li>
+ <li>Softskills</li>
+ <li>HardSkills</li>
+ <li>GIT - Github</li>
+ </div>
