@@ -29,25 +29,13 @@ You can click the Preview link to take a look at your changes.
     
     ##
  
-    <header>
-      <nav>
-        <ul>
-          <li><a href='https://github.com/vinyand'>Inicio</a></li>
-          <li><a href='#Publicacoes'>Publicações</a></li>
-          <li><a href='#Formacao'>Formação</a></li>
-        </ul>
-      </nav>
-      <h1>Venicios Andrade</h1>
       <img src="https://www.facebook.com/photo/?fbid=214929207219381&set=a.100274808684822" alt='viny'>
-    </header>
     <main>
       <section class='sec'>
         <article>
           <h2 id='Formacao'>Formação</h2>
-          <p>Formado pelo bootcamp santander, Onebitcode, Estacio de sá e DIO full-stack</p>
-          <li> Fron-End</li>
-          <li>GIT - Github</li>
-          <li>Softskills</li>
+          <p>Formado pelo bootcamp santander, Onebitcode, UNIP (Cursando) & Dio full stack</p>
+          <li> Fron-End </li>
           <li>Back-end</li>
           <li>SQL</li>
           <li>Javascript</li>
@@ -55,6 +43,9 @@ You can click the Preview link to take a look at your changes.
           <li>CSS</li>
           <li>React</li>
           <li>Scrum e Liderança</li>
+          <li>Softskills</li>
+          <li>HardSkills</li>
+          <li>GIT - Github</li>
         </article>
           <h2 id='Publicacoes' >Publicações</h2>
            <p><strong><h4>Saiba por que todo mundo deveria aprender a programar. E construa ferramentas para solucionar seu dia a dia.</strong></h4>
