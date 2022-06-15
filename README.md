@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @vinyand
-- 👀 I’m interested in full-stack
-- 🌱 I’m currently learning Front-end | Back-end
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Oi!
+- 👀 Eu tenho interesse em Full-stack.
+- 🌱 Estou estudando Front-end | Back-end
+- 💞️ Quero dar match com seu projeto!
+- 📫 Você pode me achar...
 
-##
+<hr>
  
 <!---
 vinyand/vinyand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,10 +25,11 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+   <hr>
    
    <div>  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://www.facebook.com/photo/?fbid=214929207219381&set=a.100274808684822"></div>
    </div>
- 
+ <hr>
 <div>
  <li> Fron-End </li>
  <li>Back-end</li>
