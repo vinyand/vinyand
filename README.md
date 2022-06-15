@@ -8,16 +8,22 @@
 vinyand/vinyand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-<!DOCTYPE html>
-<html leng='pt-br'>
-  <head>
-    <meta charset="utf-8">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap" rel="stylesheet">
-  </head>
-  <body>
+<body>
+  <div align="center">
+  <a href="https://github.com/vinyand">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinyand&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+    <div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+</div>
     <header>
       <nav>
         <ul>
@@ -27,7 +33,7 @@ You can click the Preview link to take a look at your changes.
         </ul>
       </nav>
       <h1>Venicios Andrade</h1>
-      <img src="https://scontent-gru2-1.xx.fbcdn.net/v/t39.30808-6/226769199_214929213886047_6873555554990934475_n.jpg?_nc_cat=109&ccb=1-6&_nc_sid=09cbfe&_nc_eui2=AeGH9aH6RtSg--kJdmLPHN_nMRKX_DHOnB0xEpf8Mc6cHQe04tXWylz_YJKa2cQF4JZI6JNF0ia6KfN2kxsk4Knp&_nc_ohc=k5wArw6OSe4AX_jO_OG&tn=r01ZSuoHzPkif-II&_nc_ht=scontent-gru2-1.xx&oh=00_AT_AnP30ZeZ20oFz3qU1NwOip_bpAkcHzk3TGQJE1i-t1A&oe=6285512A" alt='viny'>
+      <img src="https://www.facebook.com/photo/?fbid=214929207219381&set=a.100274808684822" alt='viny'>
     </header>
     <main>
       <section class='sec'>
