@@ -2,7 +2,6 @@
 - 👀 Eu tenho interesse em Full-stack.
 - 🌱 Estou estudando Front-end | Back-end
 - 💞️ Quero dar match com seu projeto!
-- 📫 Você pode me achar...
 
 <hr>
  
@@ -27,16 +26,17 @@ You can click the Preview link to take a look at your changes.
 </div>
  <hr>
 <div>
- <li> Fron-End </li>
+ <li>Front-End</li>
  <li>Back-end</li>
- <li>SQL</li>
  <li>Javascript</li>
+ <li>NodeJS</li>
+ <li>TypeScript</li>
  <li>HTML</li>
  <li>CSS</li>
  <li>React</li>
+ <li>Angular</li>
  <li>Scrum e Liderança</li>
  <li>Softskills</li>
- <li>HardSkills</li>
  <li>GIT - Github</li>
  </div>
 <hr>
