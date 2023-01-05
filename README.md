@@ -25,6 +25,7 @@ You can click the Preview link to take a look at your changes.
 </div>
  <hr>
 <div>
+ <h1>Interesses</h1>
  <li>Front-End</li>
  <li>Back-end</li>
  <li>Javascript</li>
@@ -32,6 +33,9 @@ You can click the Preview link to take a look at your changes.
  <li>TypeScript</li>
  <li>HTML</li>
  <li>CSS</li>
+ <li>C++</li>
+ <li>Python</li>
+ <li>C</li>
  <li>React</li>
  <li>Angular</li>
  <li>Scrum e Liderança</li>
