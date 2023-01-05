@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 </div>
  <hr>
 <div>
- <h1>Interesses</h1>
+ <h1>Interesses e Habilidades</h1>
  <li>Front-End</li>
  <li>Back-end</li>
  <li>Javascript</li>
